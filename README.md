@@ -4,7 +4,7 @@ Instance segmentation of solar filaments in GONG H-alpha full-disk images (MAGFi
 (PQ) against every annotator separately.
 
 **Final submission:** [`submission_package_v3/kaggle/submission_v3_final.csv`](submission_package_v3/kaggle/submission_v3_final.csv),
-nested out-of-fold PQ **0.4477** on the 707 training images, public leaderboard **0.39** (Kaggle team "Umer Gulzar").
+nested out-of-fold PQ **0.4477** on the 707 training images, public leaderboard **0.39** (Kaggle team "Techki", member M Umer and Haseeb Khan) .
 
 | you want to | go to |
 |---|---|
